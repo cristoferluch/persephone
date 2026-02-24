@@ -19,6 +19,8 @@ A terminal-based UI for exploring PostgreSQL database schemas. Browse your table
 
 ## 📸 Preview
 
+![Screenshot](https://github.com/cristoferluch/assets/blob/main/persephone.gif)
+
 ---
 
 ## 🚀 Getting Started
